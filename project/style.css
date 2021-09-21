@@ -1,0 +1,151 @@
+.top{
+    margin:0 auto;
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color:lightcyan;
+}
+.menu{
+    width:500px;
+    margin:0 auto;
+    display:flex;
+    justify-content: space-between;
+    padding-left: 1000px;
+}
+.menu li a{
+    font-size: 50px;
+    padding-top:50px;
+    color:rgb(30, 30, 238)
+}
+.menu li a:hover{
+    font-size: 60px;
+    color:orange;
+}
+.box{
+    margin:0 auto;
+    background-color:rgb(252, 248, 238) ;
+}
+p{
+    margin:0 auto;
+    font-size:70px;
+    font-family: Arial, Helvetica, sans-serif;
+    color:rgb(161, 145, 233);
+    text-align:center;
+}
+
+h1{
+    text-align:center;
+    color:silver;
+}
+
+.body1{
+    margin:0 auto;
+    display:flex;
+    justify-content: space-around;
+    padding-top: 25px;
+}
+.body2{
+    margin:0 auto;
+    display:flex;
+    justify-content: space-around;
+}
+
+.body2 a{
+    font-size:30px;
+}
+
+.body2 a:hover{
+    color:rgb(245, 206, 97);
+    font-size:40px;
+}
+
+.body3{
+    margin:0 auto;
+    display:flex;
+    justify-content: space-around;
+    padding-top: 25px;
+}
+.body4{
+    margin:0 auto;
+    display:flex;
+    justify-content: space-around;
+}
+.body4 a{
+    font-size:30px;
+}
+
+.body4 a:hover{
+    color:rgb(245, 206, 97);
+    font-size:40px
+}
+.body5{
+    margin:0 auto;
+    display:flex;
+    justify-content: space-around;
+    padding-top: 25px;
+}
+.body6{
+    margin:0 auto;
+    display:flex;
+    justify-content: space-around;
+    padding-bottom: 50px;
+}
+.body6 a{
+    font-size:30px;
+}
+
+.body6 a:hover{
+    color:rgb(245, 206, 97);
+    font-size:40px
+}
+.foot{
+    margin:0 auto;
+    display:flex;
+    justify-content:space-around;
+    background-color:rgb(232, 247, 231);
+}
+.sector1 h1{
+    color:rgb(26, 66, 43);
+    text-align: center;
+    padding-right:280px;
+}
+.sector1 a{
+    font-size:20px;
+    text-align: center;
+    padding-right:280px;
+}
+.sector1 a:hover{
+    font-size:30px;
+    color:rgb(64, 204, 118);
+}
+
+.sector2 h1{
+    color:rgb(26, 66, 43);
+    text-align: center;
+    padding-right:280px;
+}
+.sector2 a{
+    font-size:20px;
+    text-align: center;
+    padding-right:280px;
+}
+.sector2 a:hover{
+    font-size:30px;
+    color:rgb(64, 204, 118);
+}
+
+.sector3 h1{
+    color:rgb(26, 66, 43);
+    padding-right:100px;
+}
+.sector3 a{
+    font-size:20px;
+    padding-right:150px;
+}
+.sector3 a:hover{
+    font-size:30px;
+    color:rgb(64, 204, 118);
+}
+
+
+
